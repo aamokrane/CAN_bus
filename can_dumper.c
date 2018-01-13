@@ -1,4 +1,6 @@
-/* A SocketCAN example that prints the content of received CAN packets on an interface (physical or virtual)
+/* 
+   @author: Ahmed Amokrane
+   A SocketCAN example that prints the content of received CAN packets on an interface (physical or virtual)
    Similar kind of functioning as candump
 */
 #include <stdio.h>
