@@ -12,3 +12,8 @@
   - Charlie Miller and Chris Valasek work on the Jeep in 2015: http://illmatics.com/Remote%20Car%20Hacking.pdf <br/>
   - CANSPY: https://www.blackhat.com/docs/us-16/materials/us-16-Demay-CANSPY-A-Platorm-For-Auditing-CAN-Devices-wp.pdf, https://github.com/manux81/canspy
 <br/>  - Example of working with J1939: http://tucrrc.utulsa.edu/J1939Database.html, http://tucrrc.utulsa.edu/Databases/ParseLogFile.py <br/>
+
+
+<b> Other material </b> <br/>
+    - Spreadsheet containing the name of PGNs by Schnieder Electric: https://www.schneider-electric.com/library/SCHNEIDER_ELECTRIC/SE_LOCAL/APS/205363_1726/sae_j_1939_spreadsheet_supported_by_TwidoExtreme.xls <br/>   
+
